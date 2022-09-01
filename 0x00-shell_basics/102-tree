@@ -1,2 +1,2 @@
-#!/bin/bash
-mkdir -p {welcom/,welcome/to/,welcome/to/school/}
+[master 3e13931] basic shell commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
