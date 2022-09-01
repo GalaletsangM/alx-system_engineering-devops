@@ -1,1 +1,2 @@
--e#!/bin/bash\nchmod +x hello
+#!/bin/bash
+chmod +x hello
