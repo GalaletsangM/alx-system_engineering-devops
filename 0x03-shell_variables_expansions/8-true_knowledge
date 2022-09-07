@@ -1,2 +1,2 @@
 #!/bin/bash
-$((TRUEKNOWLEDGE + 1288))
+echo -e $((TRUEKNOWLEDGE + 128))
