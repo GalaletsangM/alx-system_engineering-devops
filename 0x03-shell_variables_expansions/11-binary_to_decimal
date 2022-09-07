@@ -1,2 +1,2 @@
 #!/bin/bash
-od -t ul BINARY
+echo "$2#BINARY"
