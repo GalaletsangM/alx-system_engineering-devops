@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '#!/ova/onfu\nge'
+tr | echo -e '#!/ova/onfu\nge'
